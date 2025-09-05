@@ -1,3 +1,12 @@
+<pre>
+ ________           ____     \.  
+|        |         /\.  |     \`\. ________       \
+|        |        / .'`\|      \  `\.      |       \\.    ./|
+|        |       /.'_,-'        \    `\.   |        \ `\./' |    
+|________|      /,-'             `--... `\.|         \.. `\.|
+                                       `````            `````
+</pre>
+
 [Yufugumi](https://yufugumi.com) is a social-purpose venture focused on creating small, meaningful solutions to human problems.
 
 We focus on:
